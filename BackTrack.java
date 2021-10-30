@@ -2,6 +2,7 @@
 
 public class BackTrack {
     public static void main(String[] args) {
-        System.out.println("hello world ");
+        int a = 10, b = 20;
+        System.out.println("hello world " + a + b);
     }
 }
